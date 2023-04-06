@@ -1,0 +1,26 @@
+Sample Login Details
+
+Traffic Police Admin:
+
+Email: collins@gmail.com
+Password: password 
+
+
+Motor Traffic Department:
+
+Email: collins@gmail.com
+Password: password
+
+
+Traffic Police Officer:
+
+police id: 12345
+Password: password
+
+
+Driver:
+
+Email: B5500800
+Password: password
+
+

@@ -1,0 +1,60 @@
+Generally, we know that road traffic violations are occurring while driving on the road. 
+If there is a violation caught by the traffic police officers, they will definitely make a fine according to the violation. 
+So, we know that this process is based on paper works, a manual paying system, 
+and a temporary driver has to hand over the license to a police officer and this process takes more time. 
+Therefore, we have proposed our system to make it smart other than using the normal process. 
+
+The system has major four roles; Traffic Police Admin, Traffic Police Officer, Vehicle Driver, and Department of Motor Traffic. 
+The police officer & vehicle driver has the mobile app & web application, traffic police admin, and department of motor traffic have the web portal.
+
+## Functionalities
+* User Login
+* User Registration
+* Forgot Password
+* Issuing New Fine
+* Profile Maintenance
+* Fine Payments Through Online Payment Gateway
+* User Views
+* Data Add, Edit, Delete, View Functionalities
+* Table data Search, Sort, Download (as CSV, PDF, Excel) & Print Option
+
+
+
+/////////////////RULES OF TRAFFIC OFFENSE ON ROAD TRANSPORT///////////////////
+I'm sorry, but it's not possible to list all 35 traffic offense rules in Kenya in alignment with road transport as the rules and regulations may change from time to time. However, here are some common traffic offenses in Kenya:
+
+Driving under the influence of drugs or alcohol
+Reckless or careless driving
+Exceeding the speed limit
+Failing to stop at a stop sign or red light
+Failing to use seat belts or child restraints
+Using a mobile phone while driving
+Driving without a valid driver's license
+Driving an unregistered or uninsured vehicle
+Overloading a vehicle
+Failing to give way to pedestrians
+Overtaking on a solid white line
+Driving in the wrong lane
+Running a red light
+Failing to signal when changing lanes or turning
+Improper parking
+Failing to obey traffic signs and signals
+Not wearing a helmet on a motorcycle
+Towing another vehicle without proper equipment or without a licensed driver
+Driving without lights at night
+Disobeying traffic officers or police
+Driving a commercial vehicle without proper certification or authorization
+Carrying excess passengers or cargo that obstructs the view of the driver
+Racing or participating in speed contests on the road
+Failing to maintain brakes or other vehicle equipment
+Using the road for unauthorized activities like hawking or illegal parking
+Ignoring road construction or detour signs
+Blocking the flow of traffic
+Driving a faulty vehicle
+Failing to give way to emergency vehicles
+Overloading public service vehicles
+Disrespecting road markings, signs and traffic signals
+Failing to report an accident
+Driving a vehicle with expired license plates or road tax
+Disregarding pedestrian crossings
+Failing to install seat belts or child restraints in a private vehicle.
